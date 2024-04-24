@@ -11,9 +11,9 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+            Bookstore gives you an online shopping cart and point-of-sale 
+            system for your bookstore. Online shoppers can browse and purchase
+           items via the shopping interface or via Buy Now links for individual items embedded on other sites.
             </p>
             <label
              className="input input-bordered flex items-center gap-2">
@@ -29,7 +29,7 @@ function Banner() {
             <input type="text" className="grow" placeholder="Email" />
             </label>
             </div>
-            <button className="btn mt-6 btn-secondary">Secondary</button>
+            <button className="btn mt-6 btn-secondary">Get Started</button>
             </div>
             <div className=' order-1 w-full md:w-1/2 mt-10 ml-20'><img src={banner} className="w-92 h-92" alt="" /></div>
        
